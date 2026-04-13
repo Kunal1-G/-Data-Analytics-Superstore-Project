@@ -65,12 +65,7 @@ This project addresses that challenge by creating an interactive dashboard that 
 - Developed an analytical mindset to interpret business data effectively
 - Improved ability to communicate insights through data storytelling
 - Understood the importance of aligning data visualization with business goals
-
----
-
-## Dashboard Preview
-> Add screenshots of your dashboard here to showcase visuals and insights
-
+- 
 ---
 
 ## Getting Started
